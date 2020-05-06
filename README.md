@@ -1,6 +1,6 @@
 # Sentiment_Analysis
 
-In this notebook, we will build explote multiple ways of sentiment Analysis of [IMDb movie reviews dataset](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification). We will begin by investigating the dataset that will be used to train and evaluate our models.
+In this notebook, we will build explote multiple ways of sentiment Analysis on a part of [IMDb movie reviews dataset](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification). This dataset is built-in in Keras. We will begin by investigating the dataset that will be used to train and evaluate our models.
 
 ## Sentiment Analysis using Neural Netwroks
 
